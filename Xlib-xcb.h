@@ -4,9 +4,9 @@
 #ifndef _X11_XLIB_XCB_H_
 #define _X11_XLIB_XCB_H_
 
-#include <xcb/xcb.h>
-#include <X11/Xlib.h>
-#include <X11/Xfuncproto.h>
+#include "xcb/xcb.h"
+#include "Xlib.h"
+#include "Xfuncproto.h"
 
 _XFUNCPROTOBEGIN
 

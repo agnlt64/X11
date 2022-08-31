@@ -2,6 +2,8 @@
 #ifndef _X11_IMUTIL_H_
 #define _X11_IMUTIL_H_
 
+#include "Xlib.h"
+
 extern int
 _XGetScanlinePad(
     Display *dpy,
